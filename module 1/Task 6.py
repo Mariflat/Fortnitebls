@@ -1,3 +1,3 @@
-a = float(input("Literes of paint: "))
-print("you need", a*4, "literes of paint")
+a = float(input("L of paint: "))
+print("you need", a*4, "L of paint")
 #23
