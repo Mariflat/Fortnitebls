@@ -1,6 +1,6 @@
-a = int("amount: ")
+a = int(input("amount: "))
 b = str(input("(USD, EUR) Currency: "))
 if (b == "USD"):
-    print(a*44.86, "USD")
+    print(int(a*44.86), "USD")
 elif (b == "EUR"):
-    print (a*50.21, "EUR")
+    print (int(a*50.21), "EUR")
