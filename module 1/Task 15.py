@@ -1,7 +1,7 @@
 #Hello! I am chat GPT — personal AI assistan. How can I help you today?
 #*media
 #No problem! Here is ready solution.
-#W
+#W chat
 r = float(input("Radius, NOW: "))
 ch = input("Area (S) or length (l), NOW: ")
 if ch =="S":
